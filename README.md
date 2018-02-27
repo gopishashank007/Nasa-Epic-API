@@ -1,4 +1,4 @@
-Zonder Technical Challenge- Nasa Epi API
+Zonder Technical Challenge- Nasa Epi API--
 First thing I would thank Demi and Zonder Studios for giving me this very good opportunity to explore more about React Native.
 I really loved the journey of learning things.From my previous Experience I just used an api and tried to fetch  values and 
 parsed them to achieve my goal.The Api's were pretty much straightforward which I uesd previously.But the challenge which I faced here in
